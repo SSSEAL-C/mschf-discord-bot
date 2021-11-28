@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require("cheerio");
-DTOKEN="OTAzMjM4OTg2OTU1MzgyODQ0.YXqE2w.ZRa4TogGL926buvGjaLxHTz57hU"
+DTOKEN="token"
 const Discord = require("discord.js")
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] })
 const { MessageEmbed } = require('discord.js');
